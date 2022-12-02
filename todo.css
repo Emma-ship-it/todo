@@ -1,0 +1,31 @@
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;}
+.burser{margin:30px}
+.crack{background-image: url(./f5e22d712c0fbfe4a9f0d95227b809e1.jpg);
+width: 380px;
+height: 500px;
+padding: 10px 8px;
+font-family: Arial, Helvetica, sans-serif;
+margin:auto;}
+
+button{background-color: #f7a2f7;}
+.crack h2{font-weight: 500;
+font-size: 40px;
+color: white;}
+.crack-one{padding: 8px;}
+h3{color: #f7a2f7;}
+.card-dialogue{background-color: white;
+width: fit-content;}
+/* .crack input{border: none;
+outline: none;
+background-color: white;
+padding: 0 10px;
+width: 250px;} */
+
+.collect{height: 300px;
+overflow: auto;}
+.collect::-webkit-scrollbar{overflow: hidden;}
+.icofont-ui-delete{font-size: 18px;
+    background-color: #f7a2f7 !important;}
+
